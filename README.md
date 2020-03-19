@@ -1,5 +1,5 @@
 # EndedBot
-A discord bot maded on osu! in mind
+A discord bot made on osu! in mind
 
 **Building**
 
